@@ -7,12 +7,12 @@ To determine if there is any positivity bias for reviews in the Vine program (pa
 
 ## Total Number of Vine and Non-Review Analysis
 As shown in the below links,
-   - There are 613 vine reviews in total - https://github.com/asitkumar26/Amazon_Vine_Analysis/blob/main/TOTAL_VINE_REVIEWS.JPG
-   - There are 64968 non-vine reviews in total - https://github.com/asitkumar26/Amazon_Vine_Analysis/blob/main/TOTAL_NON_VINE_REVIEWS.JPG
-   - There are 222 5-star vine reviews - https://github.com/asitkumar26/Amazon_Vine_Analysis/blob/main/5_STAR_VINE_REVIEWS.JPG
-   - There are 30543 5-star non-vine reviews - https://github.com/asitkumar26/Amazon_Vine_Analysis/blob/main/5_STAR_NON_VINE_REVIEWS.JPG
-   - 36% of 5-star paid reviews - https://github.com/asitkumar26/Amazon_Vine_Analysis/blob/main/Percentage_Of_paid_Reviews.JPG
-   - 47% of 5-star non-paid reviews - https://github.com/asitkumar26/Amazon_Vine_Analysis/blob/main/Percentage_Of_Non_paid_Reviews.JPG
+   - There are 613 vine reviews in total - https://github.com/dhanaprakash1/Amazon_Vine_Analysis/blob/main/TOTAL_VINE_REVIEWS.JPG
+   - There are 64968 non-vine reviews in total - https://github.com/dhanaprakash1/Amazon_Vine_Analysis/blob/main/TOTAL_NON_VINE_REVIEWS.JPG
+   - There are 222 5-star vine reviews - https://github.com/dhanaprakash1/Amazon_Vine_Analysis/blob/main/5_STAR_VINE_REVIEWS.JPG
+   - There are 30543 5-star non-vine reviews - https://github.com/dhanaprakash1/Amazon_Vine_Analysis/blob/main/5_STAR_NON_VINE_REVIEWS.JPG
+   - 36% of 5-star paid reviews - https://github.com/dhanaprakash1/Amazon_Vine_Analysis/blob/main/Percentage_Of_paid_Reviews.JPG
+   - 47% of 5-star non-paid reviews - https://github.com/dhanaprakash1/Amazon_Vine_Analysis/blob/main/Percentage_Of_Non_paid_Reviews.JPG
 
     
 
